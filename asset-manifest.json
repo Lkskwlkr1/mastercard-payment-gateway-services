@@ -1,18 +1,18 @@
 {
   "files": {
-    "main.css": "/static/css/main.34de6062.chunk.css",
-    "main.js": "/static/js/main.a70818ec.chunk.js",
-    "main.js.map": "/static/js/main.a70818ec.chunk.js.map",
-    "runtime-main.js": "/static/js/runtime-main.85302524.js",
-    "runtime-main.js.map": "/static/js/runtime-main.85302524.js.map",
-    "static/css/2.0b0d73e4.chunk.css": "/static/css/2.0b0d73e4.chunk.css",
-    "static/js/2.b223ec70.chunk.js": "/static/js/2.b223ec70.chunk.js",
-    "static/js/2.b223ec70.chunk.js.map": "/static/js/2.b223ec70.chunk.js.map",
-    "index.html": "/index.html",
-    "precache-manifest.4ed8eeed7b4df265137d05e6e545185f.js": "/precache-manifest.4ed8eeed7b4df265137d05e6e545185f.js",
-    "service-worker.js": "/service-worker.js",
-    "static/css/2.0b0d73e4.chunk.css.map": "/static/css/2.0b0d73e4.chunk.css.map",
-    "static/css/main.34de6062.chunk.css.map": "/static/css/main.34de6062.chunk.css.map",
-    "static/media/ciutadella.css": "/static/media/CiutadellaRegular.d343acf7.woff"
+    "main.css": "/mastercard-payment-gateway-services/static/css/main.34de6062.chunk.css",
+    "main.js": "/mastercard-payment-gateway-services/static/js/main.c0c400d6.chunk.js",
+    "main.js.map": "/mastercard-payment-gateway-services/static/js/main.c0c400d6.chunk.js.map",
+    "runtime-main.js": "/mastercard-payment-gateway-services/static/js/runtime-main.25e302d9.js",
+    "runtime-main.js.map": "/mastercard-payment-gateway-services/static/js/runtime-main.25e302d9.js.map",
+    "static/css/2.6be77be3.chunk.css": "/mastercard-payment-gateway-services/static/css/2.6be77be3.chunk.css",
+    "static/js/2.b223ec70.chunk.js": "/mastercard-payment-gateway-services/static/js/2.b223ec70.chunk.js",
+    "static/js/2.b223ec70.chunk.js.map": "/mastercard-payment-gateway-services/static/js/2.b223ec70.chunk.js.map",
+    "index.html": "/mastercard-payment-gateway-services/index.html",
+    "precache-manifest.ba9788224aef60fd730d8a53dd46e8db.js": "/mastercard-payment-gateway-services/precache-manifest.ba9788224aef60fd730d8a53dd46e8db.js",
+    "service-worker.js": "/mastercard-payment-gateway-services/service-worker.js",
+    "static/css/2.6be77be3.chunk.css.map": "/mastercard-payment-gateway-services/static/css/2.6be77be3.chunk.css.map",
+    "static/css/main.34de6062.chunk.css.map": "/mastercard-payment-gateway-services/static/css/main.34de6062.chunk.css.map",
+    "static/media/ciutadella.css": "/mastercard-payment-gateway-services/static/media/CiutadellaRegular.d343acf7.woff"
   }
 }
