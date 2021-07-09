@@ -1,6 +1,6 @@
 self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
-    "revision": "a65c7dd76eaaca7dc22b8e232afc3631",
+    "revision": "99a2f6b7a3b6847600300d0f63b94891",
     "url": "/mastercard-payment-gateway-services/index.html"
   },
   {
@@ -8,7 +8,7 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/mastercard-payment-gateway-services/static/css/2.6be77be3.chunk.css"
   },
   {
-    "revision": "071db5437d50cd79d636",
+    "revision": "5853e720eeb47c58fac9",
     "url": "/mastercard-payment-gateway-services/static/css/main.34de6062.chunk.css"
   },
   {
@@ -16,8 +16,8 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/mastercard-payment-gateway-services/static/js/2.7a4b493d.chunk.js"
   },
   {
-    "revision": "071db5437d50cd79d636",
-    "url": "/mastercard-payment-gateway-services/static/js/main.d8065751.chunk.js"
+    "revision": "5853e720eeb47c58fac9",
+    "url": "/mastercard-payment-gateway-services/static/js/main.30dc974f.chunk.js"
   },
   {
     "revision": "4ae63f37bd0df21b9ff6",

@@ -14,7 +14,7 @@
 importScripts("https://storage.googleapis.com/workbox-cdn/releases/4.3.1/workbox-sw.js");
 
 importScripts(
-  "/mastercard-payment-gateway-services/precache-manifest.917d399e80aa43a56412ceb90d10c267.js"
+  "/mastercard-payment-gateway-services/precache-manifest.408cb36139ea6b6d2f49de816315910e.js"
 );
 
 self.addEventListener('message', (event) => {

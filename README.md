@@ -1,1 +1,0 @@
-# mastercard-payment-gateway-services
